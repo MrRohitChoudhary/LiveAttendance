@@ -1,0 +1,8 @@
+{
+  "name": "GeoTrust Attendance",
+  "description": "A high-security attendance system for field workers featuring geofencing, real-time GPS validation, and photo-proof authentication.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
